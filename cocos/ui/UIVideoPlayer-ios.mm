@@ -25,7 +25,7 @@
 #include "UIVideoPlayer.h"
 
 #if CC_TARGET_PLATFORM == CC_PLATFORM_IOS
-
+/*
 using namespace cocos2d::experimental::ui;
 //-------------------------------------------------------------------------------------
 
@@ -451,5 +451,6 @@ void VideoPlayer::copySpecialProperties(Widget *widget)
         _videoView = videoPlayer->_videoView;
     }
 }
+*/
 
 #endif
